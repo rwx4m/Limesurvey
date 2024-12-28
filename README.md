@@ -1,6 +1,6 @@
 LIMESURVEY - RCE
 
-Work on Limesurvey 6.6.4 - Plugins
+Tested on Limesurvey 6.6.4 - Plugins
 
 - Buat file xml & php
 - Jadikan file zip
