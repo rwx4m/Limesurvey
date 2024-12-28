@@ -6,4 +6,4 @@ Tested on Limesurvey 6.6.4 - Plugins
 - Jadikan file zip
 - Upload & Aktifkan Plugin tersebut
 - Aktifkan listener -> netcat
-- Kunjungi url -> target.com/upload/plugins/<nama-file-zip>/<nama-file-reverse-shell>
+- Kunjungi url -> target_url/upload/plugins/<nama-file-zip>/<nama-file-reverse-shell>
