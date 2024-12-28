@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>s3cmaX</name>
+        <type>plugin</type>
+        <creationDate>2024-12-28</creationDate>
+        <lastUpdate>2024-12-28</lastUpdate>
+        <author>s3cmaX</author>
+        <authorUrl>https://github.com/glmx94</authorUrl>
+        <version>6.6.4</version>
+        <license>GNU General Public License version 2 or later</license>
+        <description><![CDATA[Author: s3cmaX]]></description>
+    </metadata>
+
+    <compatibility>
+        <version>6.0</version>
+        <version>5.0</version>
+        <version>4.0</version>
+        <version>3.0</version>
+    </compatibility>
+
+    <updaters disabled="disabled">
+    </updaters>
+</config>
